@@ -101,6 +101,7 @@ npm run dev
 ```
 
 Ouvrir un autre terminal pour le backend :
+⚠️ Il faut toujours avoir Docker d'ouvert pour lancer le processus ⚠️
 ```bash
 cd web-service
 npm i
