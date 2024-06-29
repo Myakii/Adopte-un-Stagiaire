@@ -4,7 +4,8 @@ Site de recrutement pour stagiaire (et autres)
 # Hackaton - Adopte un stagiaire | REACT JS & NODE JS
 
 - Site internet : [LIENSITE](https://github.com/HETIC-WEB2-Hackathon-2024)
-- Github : 
+- Github :
+  
     Ensemble du projet : https://github.com/HETIC-WEB2-Hackathon-2024
   
     Github du projet : https://github.com/HETIC-WEB2-Hackathon-2024/bleu-aus
